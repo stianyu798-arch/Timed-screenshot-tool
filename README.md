@@ -1,11 +1,18 @@
 # Timed-screenshot-tool / 屏幕定时提醒
 
-**EN:** A small Windows desktop utility for **scheduled reminders and full-screen screenshots**—with optional time windows, a pre-capture countdown, and shutter sound feedback.  
-**中文：** 一款 Windows 桌面小工具：**定时提醒 + 全屏截图**，可限制在指定时段运行，截屏前有倒计时，并支持快门提示音。
+<p align="center">
+<b>Language / 语言切换</b><br>
+<a href="#lang-en">English</a> &nbsp;|&nbsp; <a href="#lang-zh">简体中文</a>
+</p>
+
+**EN:** A small Windows desktop utility for **scheduled reminders and full-screen screenshots**—with optional time windows, a pre-capture countdown, and shutter sound feedback. The **desktop UI** supports **中文 / English** (radio buttons at the top).  
+**中文：** **定时提醒 + 全屏截图**，可限制时段、截屏前倒计时、提示音；**窗口界面**右上角可切换 **中文 / English**。
 
 > *摸鱼摸出来的小工具 · A side-project born from “productive procrastination”.*
 
 ---
+
+<a id="lang-en"></a>
 
 ## English
 
@@ -51,6 +58,8 @@ Config is stored next to the app: `screen_reminder_config.json`.
 - **Portable folder + Win7-oriented zip:** Python **3.8 x64** + `pack_win7_portable_zip.bat` (see `requirements-win7.txt`).
 
 ---
+
+<a id="lang-zh"></a>
 
 ## 简体中文
 

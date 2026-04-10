@@ -1,0 +1,7 @@
+# 运行：python main.py
+Pillow>=10.0.0
+
+# 打包单文件 exe（使用本目录 ScreenReminder.spec）：
+#   pip install pyinstaller
+#   python -m PyInstaller ScreenReminder.spec --clean --noconfirm
+# 或运行 build_onefile.bat

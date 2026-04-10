@@ -1,0 +1,4 @@
+# Win7 + Python 3.8 64-bit: pip install -r requirements-win7.txt
+# Optional index: -i https://pypi.org/simple/
+Pillow>=9.0.0,<11
+pyinstaller>=5.13,<6

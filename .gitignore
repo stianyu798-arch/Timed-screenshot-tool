@@ -1,0 +1,16 @@
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 本机配置与截图（勿提交）
+screen_reminder_config.json
+screenshots/
+
+# 本地测试音频（可选）
+sounds/_test.mp3

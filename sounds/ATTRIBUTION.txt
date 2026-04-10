@@ -1,0 +1,6 @@
+default_shutter.mp3
+-------------------
+截屏提示音：项目内默认使用 `default_shutter.mp3`（由用户提供的快门音效文件复制而来；
+若需更换，可替换同路径文件并保持 MP3 或改用 `default_shutter.wav`）。
+
+可选：将 Steam 安装目录下 `resource\camera1.wav` 复制为 `sounds\camera1.wav` 作为备选（勿随程序对外再分发）。
